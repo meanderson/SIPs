@@ -2,11 +2,11 @@
 sip: <to be assigned>
 title: Terminal SNX Inflation
 status: WIP
-author: Michael Anderson (@meanderson), Deltatiger (@deltatiger)
+author: Michael Anderson (@meanderson), Deltatiger (@deltatigernz)
 discussions-to: governance
 
 created: 2019-10-25
-requires (*optional): Inflation Smoothing (SIP# TBD)
+requires: Inflation Smoothing (SIP# TBD)
 ---
 
 <!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
